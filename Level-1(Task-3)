@@ -8,7 +8,6 @@
     <link rel="stylesheet" href="styles.css" />
     <title>Basic Calculator</title>
   </head>
-  <!--Made By Aditya Konda (Task 3 Level 1) Hope it Helps You-->
   <body>
     <div class="calculator">
       <div class="boxer" id="boxer">Calculator</div>
@@ -33,8 +32,6 @@
       <button class="btn" id="equals">=</button>
 
       <div class="display2" id="display2">
-        Made By Aditya Konda For CodSoft Web Development Internship Level 1:-
-        Task 3
       </div>
     </div>
     <script src="script.js"></script>
